@@ -1,4 +1,13 @@
-# React + Vite
+Practice React project.
+
+A project that covers initial React features like components and useState.
+The task was taken from the React online course.
+
+-- to run the project:
+npm run dev
+
+
+React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
